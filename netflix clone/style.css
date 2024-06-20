@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url("https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg");
+    background-repeat: no-repeat;
+    background-position: centre;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    color: #fff;
+    
+}
+
+select{
+    background-color: rgb(188, 183, 183);
+    color: black;
+    border: none;
+    border-radius: 1px;
+    height: 50px;
+    width: 100px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    height: 10px;
+    width: 60px;
+}
+
+select{
+    margin-left: 1400px;
+}
+
+.content{
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 300px;
+}
+
+input{
+    margin-top: 20px;
+    height: 50px;
+    width: 500px;
+    color: black;
+    border: none;
+    border-radius: 2px;
+}
+
+content,button{
+    height: 50px;
+    width: 100px;
+    border-radius: 3px;
+}
+
+h1{
+    font-weight: 800px;
+    font-size: 60px;
+    
+}
+
+p{
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+
+ 
